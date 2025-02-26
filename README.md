@@ -99,6 +99,3 @@ The CoachPro Management App aims to develop a comprehensive system for managing 
    Execute the following command to start the rails server:
    ```bash
    rails s
-# CoachPro-Management
-# CoachPro-Management
-# CoachPro-Management
