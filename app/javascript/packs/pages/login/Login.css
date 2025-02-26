@@ -1,0 +1,23 @@
+.login {
+    min-height: 100vh;
+}
+
+.bg-image {
+    background-image: url("./../../assets/login-form-side-img.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.form-floating input {
+    width: 150px;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}

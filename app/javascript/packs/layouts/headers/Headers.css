@@ -1,0 +1,44 @@
+/* NavigationBar.css */
+
+.navbar {
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin: 0;
+}
+
+.nav-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.auth {
+  background-color: #fff;
+  color: #333; /* Text color */
+  padding: 8px 16px;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.auth:hover {
+  background-color: blue;
+  color: #fff; /* Text color on hover */
+}
